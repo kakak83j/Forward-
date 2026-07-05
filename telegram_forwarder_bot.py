@@ -16,9 +16,9 @@ import requests
 # ============================================
 # CONFIG - RAILWAY ENVIRONMENT VARIABLES SE LOAD
 # ============================================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-SOURCE_CHANNEL = os.environ.get("SOURCE_CHANNEL", "")
-DESTINATION_GROUP = os.environ.get("DESTINATION_GROUP", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8331044036:AAFahhjuqstP9YPqb39EDz9f6w719sSum5g")
+SOURCE_CHANNEL = os.environ.get("SOURCE_CHANNEL", "https://t.me/kakakau373")
+DESTINATION_GROUP = os.environ.get("DESTINATION_GROUP", "https://t.me/kakakshe77")
 START_MESSAGE_ID = int(os.environ.get("START_MESSAGE_ID", "1"))
 END_MESSAGE_ID = int(os.environ.get("END_MESSAGE_ID", "100"))
 
