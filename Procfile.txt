@@ -1,0 +1,1 @@
+worker: python telegram_forwarder_bot.py
