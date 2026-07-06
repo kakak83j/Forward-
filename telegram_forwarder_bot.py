@@ -41,7 +41,7 @@ END_MESSAGE_ID: int = 2287
 
 # SECURITY: Only these Telegram user IDs can operate the bot
 ALLOWED_USERS: list[int] = [
-    123456789,   # <- Replace with your Telegram numeric user ID
+    8390207194,   # <- Replace with your Telegram numeric user ID
 ]
 
 # Paths
